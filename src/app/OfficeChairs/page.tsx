@@ -2,7 +2,7 @@ import React from 'react'
 
 const OfficeChairs = () => {
   return (
-    <div className=" my-2 lg:w-[1200px] lg:h-[800px] bg-[#DBDCDE] ">
+    <div className=" my-2 lg:w-[1200px] lg:h-[800px] bg-[#DBDCDE] mx-auto" id="OfficeChairs">
     <div className=" text-center py-10">
     <h1 className="text-[#9B5D5D] text-4xl font-serif text-decoration-line: underline"> OFFICE CHAIRS</h1>
 

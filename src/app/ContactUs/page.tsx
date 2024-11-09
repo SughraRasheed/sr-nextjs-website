@@ -2,8 +2,8 @@ import React from 'react'
 
 const ContactUs = () => {
   return (
-    <div className="my-2 text-center ">
-     <div className=" lg:w-[1200px] lg:h-[550px] bg-[#DBDCDE] flex justify-center py-36 ">
+    <div className="my-2 text-center " id="ContactUs">
+     <div className=" lg:w-[1200px] lg:h-[550px] bg-[#DBDCDE] flex justify-center py-36 mx-auto">
      
      <div>
 <h1 className="text-[#9B5D5D] text-6xl py-20  font-extralight text-decoration-line: underline " > 
@@ -20,7 +20,7 @@ const ContactUs = () => {
        
      </div>
         
-     <div className=" lg:w-[1200px] lg:h-[250px] bg-[#9B5D5D] py-14">
+     <div className=" lg:w-[1200px] lg:h-[250px] bg-[#9B5D5D] py-14 mx-auto ">
       <div className=" flex justify-between  "> 
         <p className=" mx-16">
         Get in Touch:

@@ -3,10 +3,10 @@ import React from 'react'
 const AboutUs = () => {
   return (
 
-    <div className="my-2 flex justify-start">
-        <div className=" bg-[url('/aboutpage.jpg')] bg-cover bg-no repeat h-screen lg:w-[470px] lg:h-[800px] ">
+    <div className="my-2 lg:w-[1200px] lg:h-[800px] bg-[#DBDCDE] mx-auto flex " id="AboutUs">
+        <div className=" bg-[url('/aboutpage.jpg')] bg-cover bg-no repeat h-screen lg:w-[470px] lg:h-[800px] mx-auto">
         </div>
-        <div className=" lg:w-[730px] lg:h-[800px] bg-[#6E7968] py-24">
+        <div className=" lg:w-[730px] lg:h-[800px] bg-[#6E7968] py-24 ">
             
                 <h1 className=" text-5xl font-serif text-decoration-line: underline flex justify-center ">
                     ABOUT US

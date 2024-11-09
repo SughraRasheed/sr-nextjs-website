@@ -2,7 +2,7 @@ import React from 'react'
 
 const Header = () => {
   return (
-    <div className="  lg:w-[1200px] lg:h-[0px]">
+    <div className="  lg:w-[1200px] lg:h-[0px] mx-auto">
         <nav className="flex justify-between ">
         <ul className="mx-auto  bg-[url('/sit&style.png')] lg:w-[300px] lg:h-[100px] bg-cover ">
         </ul>
